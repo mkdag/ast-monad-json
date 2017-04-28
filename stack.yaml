@@ -1,0 +1,7 @@
+resolver: lts-8.12
+packages:
+- '.'
+extra-deps:
+- ast-monad-0.1.0.0
+flags: {}
+extra-package-dbs: []
